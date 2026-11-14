@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+build/
+dist/
+*.egg-info/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Local outputs and caches
+*.log
+*.tmp
+*.bmp
+*.zip
+.DS_Store
+Thumbs.db
+
+# Desktop/local shortcut files
+*.lnk
